@@ -1,5 +1,9 @@
 # Mega Button Tycoon 🟩
 
+<img width="1918" height="1078" alt="Screenshot 2026-05-17 172556" src="https://github.com/user-attachments/assets/0a4a552e-7193-4fe7-ba19-be1688c83c02" />
+
+---
+
 Mega Button Tycoon is a Roblox tycoon game where players press a button, earn coins, and upgrade their button over time.
 
 ## 🎮 Roblox Game Page

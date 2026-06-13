@@ -1,6 +1,6 @@
 # Mega Button Tycoon 🟩
 
-<img width="1918" height="1078" alt="Screenshot 2026-05-17 172556" src="https://github.com/user-attachments/assets/0a4a552e-7193-4fe7-ba19-be1688c83c02" />
+<img width="3836" height="2144" alt="combined-image (2)" src="https://github.com/user-attachments/assets/cb0bb22e-6fc9-4cf1-b1a0-dfed6e64e22d" />
 
 ---
 
